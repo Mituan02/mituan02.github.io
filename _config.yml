@@ -75,7 +75,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: assets/velocity/米团.jpg
+favicon: assets/velocity/mituan.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
@@ -237,7 +237,7 @@ social_icons:
 
 # Sidebar Avatar
 in directory: 
-avatar: assets/velocity/米团.jpg
+avatar: assets/velocity/mituan.jpg
 
 
 # Table Of Contents in the Sidebar
